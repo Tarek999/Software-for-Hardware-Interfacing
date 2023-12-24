@@ -1,0 +1,5 @@
+dma.c:8:6:DMA_EnableClock	16	static
+dma.c:14:6:Stream0_Init	32	static
+dma.c:88:6:Stream0_enable	4	static
+dma.c:94:14:check_state	24	static
+dma.c:106:6:DMA2_Stream0_IRQHandler	8	static
