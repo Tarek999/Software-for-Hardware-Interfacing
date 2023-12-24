@@ -17,6 +17,6 @@ The DMA driver is used to copy the source array into the destination array.
 
 
 ## This Project is created by:
-Tarek Mohamed (https://github.com/Tarek999)
-Fatma Gad (https://github.com/FatmaGad25) 
+* Tarek Mohamed (https://github.com/Tarek999)
+* Fatma Gad (https://github.com/FatmaGad25) 
 
