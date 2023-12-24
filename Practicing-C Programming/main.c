@@ -1,5 +1,6 @@
 #include <stdio.h>
 /*Homework*/
+/*calculating the exponential function using Taylor series*/
 int main()
 {
     int n,i ;
